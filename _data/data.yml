@@ -43,7 +43,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Software Engineer specialized in developing scalable web applications, services and AI systems. with experience in full-stack and AI development. Strong team player, and a lifelong commitment to learning and self-improvement.
+    Software Engineer specialized in developing scalable web applications, services, and AI systems, with experience in full-stack and AI development. Strong team player, and a lifelong commitment to learning and self-improvement.
 
 experiences:
   title: Experiences
@@ -52,28 +52,27 @@ experiences:
       time: June 2024 - Present
       company: 1337 AI Lab, Ben Guerir
       details: |
-        As a Full Stack and AI Engineer, I have contributed to multiple AI based projects:
-        - Built Dashboard frontend Web App in React for Computer Vision project with realtime dashboard analytics, multiple source streaming and data manipulation.
-        - Built Full Backend with python and fastapi for Computer Vision Project. 
-        - Refactored streaming to levearge python's mutiprocessing for better cpu utilization.
-        - Build POC for Generative AI Project (RAG system).
+        As a Full Stack and AI Engineer, I have contributed to multiple AI projects in Generative AI and Computer Vision, both in Python backend development and React frontend:
+        - AI Employee Copilot answering questions on private OCP data and calling necessary tools: this included a data ingestion pipeline from raw PDF documents, a robust RAG system, and a front-facing web application.
+        - Conveyor-Belt Predictive Maintenance application with multiple real-time video streaming and AI processing: services for streaming, inference pipeline and backend/analytics, front-facing web application.
+        - Protective Equipment Detection: A computer vision project with similar real-time and inference capabilities as the previous one, and a different dataset to train a YOLOv11 model.
     - role: Backend Engineer
       time: October 2023 - March 2024
       company: ORA Technologies, Casablanca
       details: |
-        As a Backend Engineer, I have contributed to a NestJs Backend, with Postgres as a database:
+        As a Backend Engineer, I contributed to a NestJS backend, with Postgres as a database:
         - Built documented routes for specific frontend requirements.
-        - Built unit testing suite for products and communities services.
-        - Built typo-tolerance search / in memory search for e-commerce products and store owners using typesense and in-house hosting.
-        - wrote scripts to automate data transformation from postgres to typesense all while maintaining the data integrity.
+        - Built a unit testing suite for products and communities services.
+        - Built typo-tolerant search / in-memory search for e-commerce products and store owners using Typesense and in-house hosting.
+        - Wrote scripts to automate data transformation from Postgres to Typesense while maintaining data integrity.
     - role: Full Stack Engineer
       time: October 2022 - September 2023
       company: Finamaze, Casablanca
       details: |
-        Contributed to a clients' dashboard and a back-office for managers. as well a nodejs microservices backend:
+        Contributed to a client dashboard and a back-office for managers, as well as a Node.js microservices backend:
         - Built a "Roles and Permissions" intuitive UI system for the back-office.
-        - Built a secure passowrd reset feature via magic link, from e2e: Backend, Email template, Back-office and client dashboard.
-        - Built an end to end full-stack "Goal-based investment" Dashboard for the clients, involving complex forms and tables with realtime updates and validations.
+        - Built a secure password reset feature via magic link, end-to-end: Backend, email template, back-office, and client dashboard.
+        - Built an end-to-end full-stack "Goal-based investment" dashboard for clients, involving complex forms and tables with real-time updates and validations.
 
 education:
   title: Education
@@ -92,14 +91,14 @@ projects:
       tagline: "A web application that allows users to play a real-time multiplayer game of Pong."
 
     - title: ft_containers
-      tagline: "Docker compose project to deploy Wordpress, PhpMyAdmin, and a MySQL database, with custom Dockerfiles."
+      tagline: "Docker Compose project to deploy WordPress, PhpMyAdmin, and a MySQL database, with custom Dockerfiles."
 
     - title: affileon (WIP)
-      tagline: "A multi-tenant Application that allows store owners to organize affiliate programs for their products. built using SST a serverless framework, drizzle ORM, and Postgres as a database, hosted on AWS. using Tanstack router, Panda CSS on the frontend."
+      tagline: "A multi-tenant application that allows store owners to organize affiliate programs for their products. Built using SST (a serverless framework), Drizzle ORM, and Postgres as a database, hosted on AWS. Uses TanStack Router and Panda CSS on the frontend."
 
 publications:
   title: Skills &amp; Proficiency
   intro: |
-    - Industry Knowledge: JavaScript, TypeScript, python, C/C++, Shell, HTML, CSS, GraphQL, TRPC, MongoDB, PostgreSQL, DynamoDB
-    - Libraries & Frameworks: Fastapi, Django, React.js, Next.js, Node.js, Koa.js, Redux.js, Jest, ESLint, Prettier, Tailwind, Styled Components, Panda CSS, Apollo Client.
-    - Tools & Technologies: Unix, Git, Github, Vite.js, Yarn, Pnpm, Cloudflare,  Docker, Jira, SST, AWS Lambda, AWS S3.
+    - Industry Knowledge: JavaScript, TypeScript, Python, C/C++, Shell, HTML, CSS, GraphQL, TRPC, MongoDB, PostgreSQL, DynamoDB
+    - Libraries & Frameworks: FastAPI, Django, React.js, Next.js, Node.js, Koa.js, Redux.js, Jest, ESLint, Prettier, Tailwind, Styled Components, Panda CSS, Apollo Client.
+    - Tools & Technologies: Unix, Git, GitHub, Vite.js, Yarn, Pnpm, Cloudflare, Docker, Jira, SST, AWS Lambda, AWS S3.
