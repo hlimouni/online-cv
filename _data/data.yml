@@ -49,7 +49,7 @@ experiences:
   title: Experiences
   info:
     - role: Full Stack and AI Engineer
-      time: June 2024 - Mai 2025
+      time: June 2024 - May 2025
       company: 1337 AI Lab, Ben Guerir
       details: |
         As a Full Stack and AI Engineer, I have contributed to multiple AI projects in Generative AI and Computer Vision, both in Python backend development and React frontend:
@@ -77,28 +77,25 @@ experiences:
 education:
   title: Education
   info:
-    - degree: Computer Science Curriculum
-      university: 1337 Khouribga
+    - degree: Junior Developer
+      university: 1337 Coding School
       time: 2019 - Present
-    - degree: License in Physics of Matter Sciences
+    - degree: Licence in Physics of Matter Sciences
       university: Faculté Polydisciplinaire de Khouribga
       time: 2016 - 2019
 
 projects:
   title: Projects
   assignments:
-    - title: ft_transcendence
-      tagline: "A web application that allows users to play a real-time multiplayer game of Pong."
+    - title: FoodBot
+      tagline: "An AI Food Agent delivered through a Mobile Application to help clients find and order their meals through a new Generative / Conversational User Experience."
 
-    - title: ft_containers
-      tagline: "Docker Compose project to deploy WordPress, PhpMyAdmin, and a MySQL database, with custom Dockerfiles."
-
-    - title: affileon (WIP)
-      tagline: "A multi-tenant application that allows store owners to organize affiliate programs for their products. Built using SST (a serverless framework), Drizzle ORM, and Postgres as a database, hosted on AWS. Uses TanStack Router and Panda CSS on the frontend."
+    - title: affileon
+      tagline: "A multi-tenant application that allows store owners to organize affiliate programs for their products. Built using SST, a serverless framework, Drizzle ORM, and Postgres as a database, hosted on AWS. Using TanStack Router, Panda CSS on the frontend."
 
 publications:
   title: Skills &amp; Proficiency
   intro: |
-    - Industry Knowledge: JavaScript, TypeScript, Python, C/C++, Shell, HTML, CSS, GraphQL, TRPC, MongoDB, PostgreSQL, DynamoDB
-    - Libraries & Frameworks: FastAPI, Django, React.js, Next.js, Node.js, Koa.js, Redux.js, Jest, ESLint, Prettier, Tailwind, Styled Components, Panda CSS, Apollo Client.
-    - Tools & Technologies: Unix, Git, GitHub, Vite.js, Yarn, Pnpm, Cloudflare, Docker, Jira, SST, AWS Lambda, AWS S3.
+    - Industry Knowledge: Python, JavaScript, TypeScript, HTML, CSS, TRPC, MongoDB, PostgreSQL, DynamoDB
+    - Libraries & Frameworks: FastAPI, Django, Langchain, LlamaIndex, ChromaDB, Ultralytics (YOLO), React.js, Next.js, Node.js, Redux.js, Jest, ESLint, Prettier, Tailwind
+    - Tools & Technologies: Unix, Git, GitHub, uv, Vite.js, Docker, Jira, SST, AWS Lambda, AWS S3.
